@@ -3,7 +3,7 @@
 # Robust Anomaly Detection for Credit Card Transactions
 
 This repository contains a machine learning project focused on detecting anomalies in transaction data using various algorithms and techniques.
-## By Prince Appiah & Nikhila Kukkala
+## By  [ Prince Appiah & Nikhila Kukkala ]
 
 
 ## Overview
