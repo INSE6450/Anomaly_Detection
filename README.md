@@ -16,9 +16,12 @@ You can access the project and visualizations in the Jupyter notebook in this re
 The project includes the following components:
 - Data Exploration and Visualization: Initial exploration and visualization of the transaction data.
 - Feature Engineering: Creation of new features to improve model performance.
-- Model Training: Training multiple models, including Isolation Forest, One-Class SVM, and Autoencoders.
+- Ensemble Model (Random Forest, XGBoost, Logistic Regression and Autoencoders)
+- Model Training: Training multiple models, including Random Forest, XGBoost, Logistic Regression and Autoencoders.
+- 
 - Model Evaluation: Evaluation of the models using precision, recall, F1-score, and ROC-AUC metrics.
 - Results and Discussion: Summarizing the performance of the models and discussing the findings.
+- Model Deployment!!
 
 ## Dataset
 The data used in this project is sourced from transaction_anomalies_dataset.csv. It includes transaction records with various features such as transaction amount, V1-V29, and Time.
